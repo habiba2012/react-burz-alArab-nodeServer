@@ -5,7 +5,6 @@ node_modules/
 .env
 /.pnp
 .pnp.js
-burz-kalifa-firebase-adminsdk-wz8kq-5ece6bc974.json
 
 # testing
 /coverage
